@@ -44,7 +44,7 @@ const PeopleViewer = () => {
         </div>
 
         <div className="col-md-12">
-          <Link to="/create-person" className="btn btn-outline-primary btn-large float-right">
+          <Link to="/new-person" className="btn btn-outline-primary btn-large float-right">
             + Add New Person
           </Link>
         </div>
